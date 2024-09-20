@@ -1,0 +1,10 @@
+C:\Users\croqu\Source\Repos\DaniloPrueba\bin\Debug\DaniloPrueba.exe.config
+C:\Users\croqu\Source\Repos\DaniloPrueba\bin\Debug\DaniloPrueba.exe
+C:\Users\croqu\Source\Repos\DaniloPrueba\bin\Debug\DaniloPrueba.pdb
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.csproj.AssemblyReference.cache
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.Form1.resources
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.Properties.Resources.resources
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.csproj.GenerateResource.cache
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.csproj.CoreCompileInputs.cache
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.exe
+C:\Users\croqu\Source\Repos\DaniloPrueba\obj\Debug\DaniloPrueba.pdb
