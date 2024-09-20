@@ -1,0 +1,10 @@
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\bin\Debug\OperacionDosNumeros.exe.config
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\bin\Debug\OperacionDosNumeros.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\bin\Debug\OperacionDosNumeros.pdb
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.Form1.resources
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.Properties.Resources.resources
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.exe
+C:\Users\carlo\OneDrive\Documentos\UAM\II SEMESTRE\MYPE\I.C.E\OperacionDosNumeros\OperacionDosNumeros\obj\Debug\OperacionDosNumeros.pdb
